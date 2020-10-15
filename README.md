@@ -1,1 +1,0 @@
-# T480s-OC-Hackintosh
