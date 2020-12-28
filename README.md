@@ -4,4 +4,3 @@ RAM	16gb
 Display	FULLHD
 Wifi	CS2
 all working
-not work:wedcam
